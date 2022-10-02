@@ -7,7 +7,7 @@
 
 
 .lighter {
-    --size: 50px;
+    --size: 70px;
     width: var(--size);
     height: var(--size);
     border-radius: 50%;
